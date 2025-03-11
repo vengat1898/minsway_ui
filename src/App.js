@@ -9,10 +9,11 @@ import WorkFlow from './feature/workflow/WorkFlow'
 import Certification from './feature/certifiction/Certification'
 import Details from './feature/Details/Details'
 import Channelparter from './feature/channelPartner/Channelparter'
-// import Readyapp from './feature/readyapp/Readyapp'
+import Readyapp from './feature/readyapp/Readyapp'
 import Footer from './feature/footer/Footer'
 import Ourclients from './feature/ourClients/Ourclients'
 import Clientsays from './feature/clientsays/Clientsays'
+
  
 
 const App = () => {
@@ -28,8 +29,8 @@ const App = () => {
       <Certification />
       <Details />
       <Channelparter />
+      <Readyapp />
       <Ourclients />
-      {/* <Readyapp /> */}
       <Clientsays />
       <Footer />
       
