@@ -20,7 +20,7 @@ const App = () => {
   return (
     <main>
       <Header />
-      <Capabilities />
+      {/* <Capabilities /> */}
       <ImgSlider />
       <ProjectClient />
       < Industry/>
